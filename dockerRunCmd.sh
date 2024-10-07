@@ -1,0 +1,1 @@
+docker run -ti --rm -v /path/to/input/scan/folder:/data/input  -v /path/to/output/folder:/data/output fsl_image_hanson
